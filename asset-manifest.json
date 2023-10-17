@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/educational_website01/static/css/main.cc487363.css",
+    "main.js": "/educational_website01/static/js/main.6d00d920.js",
+    "static/js/787.7a0da2c8.chunk.js": "/educational_website01/static/js/787.7a0da2c8.chunk.js",
+    "static/media/back.webp": "/educational_website01/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/educational_website01/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/educational_website01/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/educational_website01/index.html",
+    "main.cc487363.css.map": "/educational_website01/static/css/main.cc487363.css.map",
+    "main.6d00d920.js.map": "/educational_website01/static/js/main.6d00d920.js.map",
+    "787.7a0da2c8.chunk.js.map": "/educational_website01/static/js/787.7a0da2c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc487363.css",
+    "static/js/main.6d00d920.js"
+  ]
+}
